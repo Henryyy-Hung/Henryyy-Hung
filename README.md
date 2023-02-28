@@ -1,5 +1,5 @@
 # Hey! Henry here! 👋
-|I am Henry, a year 3 student in University of Hong Kong.|![](https://github-readme-stats.vercel.app/api?username=Henryyy-Hung&theme=tokyonight) |
+I am Henry, a year 3 student in University of Hong Kong.![image alt <](https://github-readme-stats.vercel.app/api?username=Henryyy-Hung&theme=tokyonight)
 
 
 
