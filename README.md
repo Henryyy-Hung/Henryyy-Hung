@@ -11,7 +11,6 @@ I am Henry, a year 3 student in University of Hong Kong.
 - :seedling: Currently learning Networking, Web, Algorithm
 - 📫 Contact Email: `henry.k.h.hung@gmail.com`
 <br>
-<br>
 
 ---
 
