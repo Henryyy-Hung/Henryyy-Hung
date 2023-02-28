@@ -2,7 +2,7 @@
 
 ## Hey! Henry here! :wave:
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Henryyy-Hung&theme=transparent">](https://github-readme-stats.vercel.app/api?username=Henryyy-Hung&theme=tokyonight)
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Henryyy-Hung&theme=transparent">]()
 
 I am Henry, a year 3 student in University of Hong Kong.
 
