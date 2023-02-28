@@ -17,7 +17,6 @@ I am Henry, a year 3 student in University of Hong Kong.
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henryyy-Hung&layout=compact">](https://github.com/Henryyy-Hung/github-readme-stats)
 
 
-### :bar_chart: [Coding time in the last month](https://github.com/muety/wakapi)
 
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=Henryyy-Hung&theme=tokyonight)
