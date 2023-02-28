@@ -2,7 +2,7 @@
 
 I am Henry, a year 3 student in University of Hong Kong.
 
-<img style="float: right;" src="[whatever.jpg](https://github-readme-stats.vercel.app/api?username=Henryyy-Hung&theme=tokyonigh)">
+<img style="float: right;" src="https://github-readme-stats.vercel.app/api?username=Henryyy-Hung&theme=tokyonight">
 
 
 ![](https://github-readme-stats.vercel.app/api?username=Henryyy-Hung&theme=tokyonight)
