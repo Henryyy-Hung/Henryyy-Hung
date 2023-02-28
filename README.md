@@ -7,7 +7,8 @@
 I am Henry, a year 3 student in University of Hong Kong.
 
 -   :hammer_and_pick: C / C++ / Java / Python / HTML + CSS + JS
--   :pencil2: [Android App - Agrade](https://github.com/Henryyy-Hung/HKU-COMP3330-AGrade) / [Simulate Shell](https://github.com/Henryyy-Hung/HKU-COMP3230-Shell) / [Front End Building - Student center](https://github.com/Henryyy-Hung/HKU-COMP3278-StudentCenter)
+-   :pencil2: [Android App - Agrade](https://github.com/Henryyy-Hung/HKU-COMP3330-AGrade) / [Shell](https://github.com/Henryyy-Hung/HKU-COMP3230-Shell) / [Front End Building - Student center](https://github.com/Henryyy-Hung/HKU-COMP3278-StudentCenter)
+-   :seedling: Currently learning Networking, Web, Algorithm
 ---
 
 
