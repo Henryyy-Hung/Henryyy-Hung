@@ -10,8 +10,9 @@ I am Henry, a year 3 student in University of Hong Kong.
 - :pencil2: [Android App - Agrade](https://github.com/Henryyy-Hung/HKU-COMP3330-AGrade) / [Shell](https://github.com/Henryyy-Hung/HKU-COMP3230-Shell) / [Front End Building - Student center](https://github.com/Henryyy-Hung/HKU-COMP3278-StudentCenter)
 - :seedling: Currently learning Networking, Web, Algorithm
 - 📫 Contact Email: `henry.k.h.hung@gmail.com`
-
-
+<br>
+<br>
+<br>
 ---
 
 
