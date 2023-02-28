@@ -1,12 +1,13 @@
 
 
-# Hey! Henry here! 👋
-I am Henry, a year 3 student in University of Hong Kong.
-
+## Hey! Henry here! :wave:
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Henryyy-Hung&theme=tokyonight">](https://github-readme-stats.vercel.app/api?username=Henryyy-Hung&theme=tokyonight)
 
+I am Henry, a year 3 student in University of Hong Kong.
 
+-   :hammer_and_pick: C / C++ / Python / Java / SQL
+-   :pencil2: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [i3wm](https://i3wm.org/) / [Neovim](https://neovim.io/) / [nnn]
 ---
 
 
