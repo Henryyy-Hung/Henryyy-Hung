@@ -1,6 +1,6 @@
 # Hey! Henry here! 👋
 
-<img style="float: right;" src="https://github-readme-stats.vercel.app/api?username=Henryyy-Hung&theme=tokyonight">
+![image alt >](https://github-readme-stats.vercel.app/api?username=Henryyy-Hung&theme=tokyonight)
 
 I am Henry, a year 3 student in University of Hong Kong.
 
@@ -8,7 +8,6 @@ I am Henry, a year 3 student in University of Hong Kong.
 
 
 <!--
-![](https://github-readme-stats.vercel.app/api?username=Henryyy-Hung&theme=tokyonight)
 
 **Henryyy-Hung/Henryyy-Hung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
