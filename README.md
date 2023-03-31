@@ -2,7 +2,6 @@
 
 [<img align="right" width="50%" height="100%" src="https://github-readme-stats.vercel.app/api?username=Henryyy-Hung&theme=transparent">](https://github.com/Henryyy-Hung)
 
-<div>
 I am Henry, a year 3 student in University of Hong Kong.
 
 - :hammer_and_pick: C / C++ / Java / Python / HTML + CSS + JS
@@ -10,7 +9,6 @@ I am Henry, a year 3 student in University of Hong Kong.
 - :seedling: Currently learning Networking, Web, Algorithm
 - 📫 Contact Email: `henry.k.h.hung@gmail.com`
 <br>
-</div>
 
 
 <!--
