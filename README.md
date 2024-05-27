@@ -8,7 +8,7 @@ I am Henry, a year 4  CS student in **University of Hong Kong**.
 - :pencil2: Distributed System / Android APP / Web APP
 - :seedling: Database System / Parallel Computing / Game Development
 - 📫 Contact Email: `henry.k.h.hung@gmail.com`
-- Personal Website: [Click Here](Henryyy-Hung.github.io)
+- Personal Website: [Click Here](https://henryyy-hung.github.io/)
 
 <br>
 
