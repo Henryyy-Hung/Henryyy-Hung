@@ -8,7 +8,7 @@ I am Henry, a CS graduate from **University of Hong Kong**.
 - :pencil2: Distributed / Android / Web / LLM
 - :seedling: AI development
 - 📫 Contact Email: `henry.k.h.hung@gmail.com`
-- Personal Website: [Click Here](https://henryyy-hung.github.io/)
+- [Click to view my personal website](https://hungkahing.com)
 
 <br>
 
