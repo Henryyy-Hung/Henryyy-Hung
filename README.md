@@ -7,7 +7,7 @@ I am Henry, a CS graduate from **University of Hong Kong**.
 - :hammer_and_pick: Java, Python, NodeJS, React, C / C++
 - :pencil2: Distributed / Android / Web / LLM
 - :seedling: AI development
-- 🖥️ Website: [https://hungkahing.com](https://hungkahing.com/en)
+- 🖥️ Website: [LinkedIn](https://www.linkedin.com/in/hungkahing/)
 - 📫 Email: `henry.k.h.hung@gmail.com`
 
 <br>
